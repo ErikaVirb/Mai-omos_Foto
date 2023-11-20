@@ -1,0 +1,28 @@
+
+button{
+  padding: 13px;
+  padding-top: 6px;
+  padding-bottom: 8px;
+  color: white;
+  background-color: #5B87BB;
+  border-style: solid;
+  border-color: #5B87BB;
+  border-radius: 5px;
+  display: block;
+  margin:35px auto;
+}
+button:hover{
+  background-color: #efeaea;
+  color: #5B87BB;
+}
+#imageList{
+    list-style: none;
+    /* margin-left: 30px; */
+    padding-left: 0;
+    margin: auto;
+    padding-left: 75px;
+}
+#imageList li{
+    padding: 20px;
+    display: inline-block;
+}
